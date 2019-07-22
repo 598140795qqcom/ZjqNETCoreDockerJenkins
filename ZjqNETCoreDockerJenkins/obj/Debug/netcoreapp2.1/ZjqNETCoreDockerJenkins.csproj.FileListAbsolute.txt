@@ -1,0 +1,3 @@
+D:\project\个人项目\.net core\ZjqNETCoreDockerJenkins\ZjqNETCoreDockerJenkins\obj\Debug\netcoreapp2.1\ZjqNETCoreDockerJenkins.csproj.CoreCompileInputs.cache
+D:\project\个人项目\.net core\ZjqNETCoreDockerJenkins\ZjqNETCoreDockerJenkins\obj\Debug\netcoreapp2.1\ZjqNETCoreDockerJenkins.AssemblyInfoInputs.cache
+D:\project\个人项目\.net core\ZjqNETCoreDockerJenkins\ZjqNETCoreDockerJenkins\obj\Debug\netcoreapp2.1\ZjqNETCoreDockerJenkins.AssemblyInfo.cs
