@@ -10,6 +10,9 @@ using Microsoft.Extensions.Logging;
 
 namespace ZjqNETCoreDockerJenkins
 {
+    /// <summary>
+    /// 项目主入口
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)

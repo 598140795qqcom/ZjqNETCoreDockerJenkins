@@ -11875,11 +11875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\个人项目\\.net core\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins.csproj",
+      "projectUniqueName": "D:\\project\\个人项目\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins.csproj",
       "projectName": "ZjqNETCoreDockerJenkins",
-      "projectPath": "D:\\project\\个人项目\\.net core\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins.csproj",
+      "projectPath": "D:\\project\\个人项目\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\个人项目\\.net core\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins\\obj\\",
+      "outputPath": "D:\\project\\个人项目\\ZjqNETCoreDockerJenkins\\ZjqNETCoreDockerJenkins\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
