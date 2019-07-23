@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace ZjqNETCoreDockerJenkins
 {
     /// <summary>
-    /// 项目主入口 1
+    /// 项目主入口 ----
     /// </summary>
     public class Program
     {
